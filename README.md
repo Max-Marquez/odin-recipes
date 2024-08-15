@@ -1,0 +1,1 @@
+A project showcasing skills in HTML, CSS, JavaScript, and Git.
